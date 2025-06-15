@@ -1,5 +1,10 @@
-#include <iostream>
+#include "functions.h"
+using namespace std;
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    square();
+    // cube();
+    // values();
+    // multiply(6,3);
     return 0;
+
 }
